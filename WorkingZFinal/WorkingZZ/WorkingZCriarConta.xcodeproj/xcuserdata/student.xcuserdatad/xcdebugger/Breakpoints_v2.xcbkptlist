@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WorkingZCriarConta/CategoriasTableViewController.swift"
+            timestampString = "530219272.06111"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "CategoriasTableViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WorkingZCriarConta.CategoriasTableViewController.categorias.getter : Swift.Array&lt;WorkingZCriarConta.Categoria&gt;"
+                  moduleName = "WorkingZCriarConta"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/KINGSTON/WorkingZZ/WorkingZCriarConta/CategoriasTableViewController.swift"
+                  timestampString = "530220320.954215"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "35">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WorkingZCriarConta.CategoriasTableViewController.categorias.setter : Swift.Array&lt;WorkingZCriarConta.Categoria&gt;"
+                  moduleName = "WorkingZCriarConta"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/KINGSTON/WorkingZZ/WorkingZCriarConta/CategoriasTableViewController.swift"
+                  timestampString = "530220320.956801"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "65">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WorkingZCriarConta.CategoriasTableViewController.init (style : __C.UITableViewStyle) -&gt; WorkingZCriarConta.CategoriasTableViewController"
+                  moduleName = "WorkingZCriarConta"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/KINGSTON/WorkingZZ/WorkingZCriarConta/CategoriasTableViewController.swift"
+                  timestampString = "530220320.959483"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WorkingZCriarConta.CategoriasTableViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; WorkingZCriarConta.CategoriasTableViewController"
+                  moduleName = "WorkingZCriarConta"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/KINGSTON/WorkingZZ/WorkingZCriarConta/CategoriasTableViewController.swift"
+                  timestampString = "530220320.96197"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "57">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WorkingZCriarConta.CategoriasTableViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;WorkingZCriarConta.CategoriasTableViewController&gt;"
+                  moduleName = "WorkingZCriarConta"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/KINGSTON/WorkingZZ/WorkingZCriarConta/CategoriasTableViewController.swift"
+                  timestampString = "530220320.964933"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WorkingZCriarConta/CategoriasTableViewController.swift"
+            timestampString = "530219894.446683"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WorkingZCriarConta/CadastroClienteViewController.swift"
+            timestampString = "530478078.000225"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "criarConta(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WorkingZCriarConta/Pedido.swift"
+            timestampString = "530645322.457043"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "PedidoDAO"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
